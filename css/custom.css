@@ -1,0 +1,8 @@
+s {
+    white-space: nowrap;
+    text-decoration: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: rgba(0, 0, 0, 0.5);
+    opacity: 0.5;
+    cursor: help;
+}
